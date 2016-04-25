@@ -1,0 +1,37 @@
+Hussnain Waris
+Registration no 5357
+Lab No. 9
+Github Link: www.github.com/hussnainwaris/InterpreterLabInJava
+
+Abstract:
+An interpreter that reads a file with a declarative language containing variable declarations and simple arithmetic operations. These commands are then executed and the result is displayed.
+Objectives:
+•	Create an Interpreter which can execute simple arithmetic commands and store variable declarations.
+
+•	Read the declarations from a file.
+
+•	Use a Version Control System (VCS) to manage their solutions
+
+Language: Java
+IDE: Eclipse
+Tasks:
+•	Look for syntax errors in the declaration file.
+•	Implement the interpreter to execute the declarations.
+
+Files form and how interpretation would be done:
+
+Declarations of variables 
+Arithmetic operation on two immediate values and storing in variable
+Arithmetic operation on two variables and storing in variable
+Arithmetic operations one variable and one immediate value and storing in variable
+Printing immediate value
+Printing variable 
+
+ERRORS
+Not Initialized
+Initialization error as ‘a’ is not initialized using Var declarative
+Syntax Errors
+Immediate value can’t be used to store value
+ missing
+Invalid Arithmetic Operation
+
